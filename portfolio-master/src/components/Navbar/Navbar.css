@@ -1,0 +1,23 @@
+.navbar-dark{
+    background-color: #282c31;
+}
+
+#about {
+    scroll-margin-top: 3.5rem;
+}
+
+#skills {
+    scroll-margin-top: 5rem;
+}
+
+#projects {
+    scroll-margin-top: 3rem;
+}
+
+#education{
+    scroll-margin-top: 2rem;
+}
+
+#experience{
+    scroll-margin-top: 2rem;
+}
